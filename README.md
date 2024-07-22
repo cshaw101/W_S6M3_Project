@@ -18,18 +18,18 @@ This is a really fun project, and one to show your family and friends when you'v
 
 ### Task 1: Setup
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] Download project dependencies by running `npm install`
-- [ ] Start up the app using `npm run dev`
-- [ ] Implement the project on the `main` branch, committing changes regularly.
-- [ ] Push commits: `git push origin main`.
+- [x] Create a forked copy of this project.
+- [x] Clone your OWN version of the repository in your terminal
+- [x] Download project dependencies by running `npm install`
+- [x] Start up the app using `npm run dev`
+- [x] Implement the project on the `main` branch, committing changes regularly.
+- [x] Push commits: `git push origin main`.
 
 ### Task 2: Planning
 
-- [ ] If you want, this is the time to make a simple design spec (look up ["simple wireframes"](https://www.google.com/search?q=simple+wireframes) to find resources & examples). **A pen & paper sketch (or outline) is often the fastest way to start your planning.**
-- [ ] Once you have a design plan in mind, break down the designs into individual components.
-- [ ] Plan which components will hold state, what data each needs from props (if any), and where you will make your data fetch.
+- [x] If you want, this is the time to make a simple design spec (look up ["simple wireframes"](https://www.google.com/search?q=simple+wireframes) to find resources & examples). **A pen & paper sketch (or outline) is often the fastest way to start your planning.**
+- [x] Once you have a design plan in mind, break down the designs into individual components.
+- [x] Plan which components will hold state, what data each needs from props (if any), and where you will make your data fetch.
 
 ## Task 3: File structure
 
