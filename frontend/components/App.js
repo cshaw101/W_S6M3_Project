@@ -18,7 +18,7 @@ useEffect(() => {
     <>
      <h1>{data ? data.title : 'Loading...'}</h1>
       {data && <p>{data.explanation}</p>}
-      {data && <img src={data.hdurl} alt={data.title} style={{ maxWidth: '100%' }} />}
+      {data && <img src={data.hdurl} alt={data.title} style={{ maxWidth: '50%' }} />}
     </>
   )
 }
